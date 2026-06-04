@@ -1,5 +1,14 @@
 # 🍃 WildEcho: AI-Powered Bioacoustic Monitoring Platform
 
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![ONNX Runtime](https://img.shields.io/badge/ONNX--Runtime-005C99?style=for-the-badge&logo=onnx&logoColor=white)](https://onnxruntime.ai/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow?style=for-the-badge)](https://huggingface.co/spaces)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+
 WildEcho is a high-fidelity web platform designed to analyze passive acoustic monitoring (PAM) soundscapes and identify wildlife species in the Pantanal wetlands, South America. 
 
 It is built as an ensemble pipeline using **Next.js (App Router + TypeScript)** in the frontend and a **FastAPI backend** running inference with ONNX Runtime models.
