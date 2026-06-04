@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+numpy
+pandas
+onnxruntime
+torch
+torchaudio
+soundfile
+librosa
+scipy
+python-multipart
+huggingface_hub

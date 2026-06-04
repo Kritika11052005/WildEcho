@@ -1,0 +1,27 @@
+# Models (ONNX and PyTorch weights - too large for GitHub)
+models/
+*.onnx
+*.onnx.data
+*.pt
+*.bin
+
+# Next.js build and cache
+frontend/.next/
+frontend/out/
+frontend/node_modules/
+frontend/.env*.local
+
+# Python Virtual Environments
+backend/venv/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Local Environment Credentials
+backend/.env
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
